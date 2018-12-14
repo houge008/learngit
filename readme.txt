@@ -5,4 +5,5 @@ The modify 2
 I will become a master of git
 I am hungury
 Good boy!Good job
+Creating a new branch is quick AND simple
 
